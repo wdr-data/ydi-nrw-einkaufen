@@ -1,5 +1,5 @@
 ---
-title: "Einkaufen in NRW - Was schätzen Sie?"
+title: "NRW kauft ein - Was schätzen Sie?"
 description: Non adipisicing minim magna anim esse consectetur amet ex dolore amet veniam.
 author: Peter Schneider
 pub_date: "2021-10-08"
