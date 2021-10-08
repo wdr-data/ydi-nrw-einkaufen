@@ -18,7 +18,6 @@ import DataWrapper from '../components/datawrapper/datawrapper.jsx'
 import Quote from '../components/quote/quote.jsx'
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
-import SemioticBarChart from '../components/semiotic_barChart/semiotic_barChart.jsx'
 import WdrPlayer from '../components/video/video.jsx'
 import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
@@ -31,28 +30,6 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 Waren Sie in der letzten Spielzeit in der Oper? Dann haben Sie höchstwahrscheinlich Papageno, die Knusperhexe oder Leporello auf der Bühne erlebt. Denn diese Opern und Operetten standen am häufigsten auf dem Spielplan:
 
-## Tabs Beispiel:
-
-<TabbedView tabs={[
-    {
-        url: "//datawrapper.dwcdn.net/vX99N/57/",
-        title: "Infektionen",
-        frameTitle: "Bestätigte Infektionen mit Corona: Karte",
-        ariaLabel: "Karte",
-    },
-    {
-        url: "//datawrapper.dwcdn.net/x7wUg/73/",
-        title: "Je 100.000",
-        frameTitle: "Bestätigte Infektionen mit Corona je 100.000 Einwohner: Karte",
-        ariaLabel: "Karte",
-    },
-    {
-        url: "//datawrapper.dwcdn.net/j8Y35/2/",
-        title: "Tabelle",
-        frameTitle: "Infektionen mit Corona: Aktuelle Zahlen aus NRW",
-        ariaLabel: "Tabelle",
-    },
-]} />
 
 <Link title="Dies ist ein Beispiel für einen einzelnen Link" href="https://example.com/" />
 
@@ -83,13 +60,9 @@ Waren Sie in der letzten Spielzeit in der Oper? Dann haben Sie höchstwahrschein
 
 <YDIBar name="test02"/>
 
-## Beispiel regulärer Bar Chart:
-
-<SemioticBarChart/>
-
 ## Beispiel Video-Player:
 
-<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/hZIGM2L.jpg" />
+<WdrPlayer videoId="2508843" videoPoster="https://i.imgur.com/hZIGM2L.jpg" />
 
 mehr toller text
 
