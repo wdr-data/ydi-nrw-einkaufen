@@ -1,8 +1,8 @@
 {
   "key": "bar",
-  "heading": "Was schätzen Sie: Wie viele Frauen zwischen 30 und 50 haben ein eigenes Nettoeinkommen von über 2.500 Euro?",
+  "heading": "Was schätzen Sie: Wie hat sich der Absatz von diesen drei Sportgeräten von 2019 bis 2020 verändert?",
   "subheading": "So sieht ein Subheading aus",
-  "result": "**Gut verdienende Frauen sind in Deutschland in der Minderheit. Unter den verheirateten Frauen verdienen sogar nur 3,4 % mehr als 2.500 Euro netto. Das liegt neben der Berufswahl vor allem daran, welche Rollenverteilung in Partnerschaften gelebt wird.**",
+  "result": "**Die SUPs liegen klar vorn - mit 300 Prozent. Bei den E-Bikes sind es nur 60 Prozent Anstieg.**",
   "accessibility": "Während 23,2 Prozent der Männern zwischen 30 und 50 Jahren ein Einkommen von mehr als 2.500 Euro haben, sind es nur 5,1 Prozent der Frauen.",
   "source": {
     "url": "https://www.bmfsfj.de/blob/83858/928434dae7d841aadc5d2b0ef137573b/20160307-studie-mitten-im-leben-data.pdf",
@@ -10,15 +10,19 @@
   },
   "knownData": [
     {
-      "label": "Männer",
-      "value": 23.2
+      "label": "Trampolin",
+      "value": 200
     }
   ],
   "unknownData": {
-    "label": "Frauen",
-    "value": 5.1
+    "label": "SUP",
+    "value": 600
   },
-  "maxY": 40,
+    "unknownData": {
+    "label": "E-Bikes",
+    "value": 60
+  },
+  "maxY": 700,
   "initialGuess": 10,
   "unit": "%",
   "precision": 1,
