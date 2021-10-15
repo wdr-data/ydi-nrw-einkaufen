@@ -26,14 +26,16 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 .
 .
 <div class="empty_space" style="height: 20rem"></div>
+
+## Sportgeräte:
+
+<YDIBar name="sportgeraete"/>
+
+<div class="empty_space" style="height: 20rem"></div>
 ## Kleidung und Mode:
 
 <YDILine name="line"/>
 
 <div class="empty_space" style="height: 20rem"></div>
-
-## Sportgeräte:
-
-<YDIBar name="sportgeraete"/>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
