@@ -4,7 +4,7 @@ description: Non adipisicing minim magna anim esse consectetur amet ex dolore am
 author: Peter Schneider
 pub_date: "2021-10-08"
 heroImage: "online-wochenmaerkte-104__v-gseapremiumxl.jpeg"
-heroAlt: "Richard Wagner und seine Freunde"
+heroAlt: ""
 heroCredit: "Richard Wagner und seine Freunde"
 sharingImageFacebook: "online-wochenmaerkte-104__v-gseapremiumxl.jpeg"
 sharingImageTwitter: "online-wochenmaerkte-104__v-gseapremiumxl.jpeg"
