@@ -21,17 +21,18 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 # NRW Einkaufen
 
-## Einkaufen in NRW? Was schätzen Sie?
+## Was schätzen Sie...? NRW kauft ein
 
-Cupidatat sit commodo reprehenderit aute. In commodo ad Lorem esse aliqua sint cillum id esse commodo commodo. Ex labore exercitation non veniam laborum Lorem veniam incididunt tempor non incididunt exercitation. Do deserunt voluptate id irure excepteur. Quis Lorem ipsum Lorem aliqua eiusmod.
+.
+.
 
-## Beispiel WSS Line Chart:
+## Kleidung und Mode:
 
 <YDILine name="line"/>
 
 <div class="empty_space" style="height: 20rem"></div>
 
-## Beispiel WSS Bar Chart:
+## Sportgeräte:
 
 <YDIBar name="sportgeraete"/>
 
