@@ -29,6 +29,8 @@ Cupidatat sit commodo reprehenderit aute. In commodo ad Lorem esse aliqua sint c
 
 <YDILine name="line"/>
 
+<div class="empty_space" style="height: 20rem"></div>
+
 ## Beispiel WSS Bar Chart:
 
 <YDIBar name="sportgeraete"/>
