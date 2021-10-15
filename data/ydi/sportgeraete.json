@@ -1,5 +1,5 @@
 {
-  "key": "bar",
+  "key": "sportgeraete",
   "heading": "Was schätzen Sie: Wie hat sich der Absatz von diesen drei Sportgeräten von 2019 bis 2020 verändert?",
   "subheading": "So sieht ein Subheading aus",
   "result": "**Die SUPs liegen klar vorn - mit 300 Prozent. Bei den E-Bikes sind es nur 60 Prozent Anstieg.**",
@@ -12,13 +12,13 @@
     {
       "label": "Trampolin",
       "value": 200
+    },
+    {
+      "label": "SUP",
+      "value": 600
     }
   ],
   "unknownData": {
-    "label": "SUP",
-    "value": 600
-  },
-    "unknownData": {
     "label": "E-Bikes",
     "value": 60
   },
@@ -27,6 +27,6 @@
   "unit": "%",
   "precision": 1,
   "customMargin": {
-    "left": 45
+    "left": 55
   }
 }

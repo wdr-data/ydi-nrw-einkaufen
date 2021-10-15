@@ -14,13 +14,10 @@ cg3: "WDR 3"
 cg4: "Opern-Spielpläne in NRW: tot und männlich"
 ---
 
-import DataWrapper from '../components/datawrapper/datawrapper.jsx'
-import Quote from '../components/quote/quote.jsx'
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
 import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
-import { Link, LinkList } from '../components/link/link.jsx'
 
 # NRW Einkaufen
 
@@ -34,38 +31,6 @@ Cupidatat sit commodo reprehenderit aute. In commodo ad Lorem esse aliqua sint c
 
 ## Beispiel WSS Bar Chart:
 
-<YDIBar name="bar"/>
-
-
-### Consectetur irure incididunt tempor esse sit.
-
-<Link title="Dies ist ein Beispiel für einen einzelnen Link" href="https://example.com/" />
-
-<LinkList links={[
-    {
-        title: "Dies ist ein Beispiel für eine Link-Liste",
-        href: "https://example.com/",
-    },
-    {
-        title: "Dies ist noch ein Beispiel für eine Link-Liste",
-        href: "https://example.com/",
-    },
-]} />
-
-<figure role="group">
-    <figcaption>Wurde das Stück im Haus auch 'für Kinder' gespielt, haben wir es hier mit zusammengefasst.</figcaption>
-    <DataWrapper
-        alt="76 mal wurde die Zauberflöte 2018/2019 in NRW aufgeführt, gefolgt von Hänsel und Gretel mit 34 Aufführungen."
-        title="Zauberflöte vor Hänsel und Gretel"
-        src="//datawrapper.dwcdn.net/azwpu/7/"
-    />
-</figure>
-
-<figure role="group">
-    <img src="berthold-schneider-credit-jens-grossmann.jpg" alt="Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann" />
-    <figcaption style="text-align: end;">Berthold Schneider</figcaption>
-</figure>
-
-<Quote author="Hambone Fakenamington">Ullamco consequat adipisicing eiusmod duis velit excepteur qui eiusmod.</Quote>
+<YDIBar name="sportgeraete"/>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
