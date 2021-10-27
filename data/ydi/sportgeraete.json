@@ -10,17 +10,81 @@
   },
   "knownData": [
     {
-      "label": "Trampolin",
-      "value": 200
+      "label": "Trampoline",
+      "value": 169
     },
     {
-      "label": "SUP",
-      "value": 600
+      "label": "Hanteln",
+      "value": 207
     }
   ],
   "unknownData": {
     "label": "E-Bikes",
-    "value": 60
+    "value": 44
+  },
+  "maxY": 700,
+  "initialGuess": 10,
+  "unit": "%",
+  "precision": ,
+  "customMargin": {
+    "left": 55
+  }
+}
+{
+  "key": "sportgeraete",
+  "heading": "Was schätzen Sie: Wie hat sich der Absatz von diesen drei Sportgeräten von 2019 bis 2020 verändert?",
+  "subheading": "So sieht ein Subheading aus",
+  "result": "**Die SUPs liegen klar vorn - mit 600 Prozent. Bei den E-Bikes sind es nur 60 Prozent Anstieg.**",
+  "accessibility": "Während 23,2 Prozent der Männern zwischen 30 und 50 Jahren ein Einkommen von mehr als 2.500 Euro haben, sind es nur 5,1 Prozent der Frauen.",
+  "source": {
+    "url": "",
+    "title": ""
+  },
+  "knownData": [
+    {
+      "label": "Trampoline",
+      "value": 169
+    },
+    {
+      "label": "E-Bikes",
+      "value": 44
+    }
+  ],
+  "unknownData": {
+    "label": "Hanteln",
+    "value": 207
+  },
+  "maxY": 700,
+  "initialGuess": 10,
+  "unit": "%",
+  "precision": ,
+  "customMargin": {
+    "left": 55
+  }
+}
+{
+  "key": "sportgeraete",
+  "heading": "Was schätzen Sie: Wie hat sich der Absatz von diesen drei Sportgeräten von 2019 bis 2020 verändert?",
+  "subheading": "So sieht ein Subheading aus",
+  "result": "**Die SUPs liegen klar vorn - mit 600 Prozent. Bei den E-Bikes sind es nur 60 Prozent Anstieg.**",
+  "accessibility": "Während 23,2 Prozent der Männern zwischen 30 und 50 Jahren ein Einkommen von mehr als 2.500 Euro haben, sind es nur 5,1 Prozent der Frauen.",
+  "source": {
+    "url": "",
+    "title": ""
+  },
+  "knownData": [
+    {
+      "label": "E-Bikes",
+      "value": 44
+    },
+    {
+      "label": "Hanteln",
+      "value": 207
+    }
+  ],
+  "unknownData": {
+    "label": "Trampoline",
+    "value": 169
   },
   "maxY": 700,
   "initialGuess": 10,
