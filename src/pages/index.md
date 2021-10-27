@@ -5,7 +5,7 @@ author: Peter Schneider
 pub_date: "2021-10-08"
 heroImage: "online-wochenmaerkte-104__v-gseapremiumxl.jpeg"
 heroAlt: ""
-heroCredit: "Richard Wagner und seine Freunde"
+heroCredit: ""
 sharingImageFacebook: "online-wochenmaerkte-104__v-gseapremiumxl.jpeg"
 sharingImageTwitter: "online-wochenmaerkte-104__v-gseapremiumxl.jpeg"
 cg1: "WDR"
