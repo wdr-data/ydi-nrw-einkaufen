@@ -38,4 +38,4 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 <div class="empty_space" style="height: 20rem"></div>
 
-<Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
+<Sharing twitter facebook mail whatsapp telegram reddit xing linkedin /> 
