@@ -29,9 +29,15 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 ## Sportgeräte:
 
-<YDIBar name="sportgeraete"/>
-
+<YDIBar name="sportgeraete_01"/>
 <div class="empty_space" style="height: 20rem"></div>
+
+<YDIBar name="sportgeraete_02"/>
+<div class="empty_space" style="height: 20rem"></div>
+
+<YDIBar name="sportgeraete_03"/>
+<div class="empty_space" style="height: 20rem"></div>
+
 ## Kleidung und Mode:
 
 <YDILine name="line"/>
