@@ -72,7 +72,14 @@ const Marker = ({ x, y, textLines, color, edge, hidden }) => {
 }
 
 const YDILineInternal = ({ name }) => {
-    const question = useMemo(() => require(`../../../data/ydi/${name}.json`), [name])
+    const question = useMemo(
+        () => {
+            const q = require(`../../../data/ydi/${name}.json`);
+            q.minY = q.minY || 0;
+            return q;
+        },
+        [name]
+    );
 
     const formatNumber = useNumberFormatter(question);
 
@@ -145,9 +152,9 @@ const YDILineInternal = ({ name }) => {
     const yScale = useMemo(
         () => scaleLinear({
             range: [yMax, 0],
-            domain: [0, question.maxY]
+            domain: [question.minY, question.maxY]
         }),
-        [yMax, question.maxY]
+        [yMax, question.minY, question.maxY]
     );
 
     // Either use static tick values or calculate them from the number of ticks
@@ -192,7 +199,7 @@ const YDILineInternal = ({ name }) => {
         const effectiveLabel = unknownData.findIndex(
             (d) => d.label === label) !== -1 ? label : unknownData[0].label;
 
-        const newGuess = Math.max(0, yScale.invert(yPos));
+        const newGuess = Math.max(question.minY, yScale.invert(yPos));
 
         setHasGuessed(true);
         setGuessProgress(

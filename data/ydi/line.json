@@ -15,7 +15,7 @@
     },
     {
       "label": "2",
-      "value": 7
+      "value": -7
     }
   ],
   "unknownData": [
@@ -25,14 +25,15 @@
     },
     {
       "label": "4",
-      "value": 13
+      "value": -13
     }
   ],
+  "minY": -20,
   "maxY": 30,
   "unit": "%",
   "precision": 1,
   "customMargin": {
-    "left": 45,
+    "left": 50,
     "right": 10
   }
 }
