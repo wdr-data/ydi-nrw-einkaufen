@@ -1,8 +1,8 @@
 {
   "key": "mode",
-  "heading": "Was schätzen Sie: Wie hat sich der Absatz von chilligen outfits vs. krassem bling verändert?",
-  "subheading": "So sieht ein Subheading aus",
-  "result": "**Die chilligen outfits liegen klar vorn - mit 1 million Prozent Anstieg. Beim bling sind es nur -tausend Prozent Anstieg.**",
+  "heading": "Was schätzen Sie: Wie hat sich der Absatz von Jogginghosen gegenüber Anzügen verändert?",
+  "subheading": "",
+  "result": "**Der Absatz von Jogginghosen ging deutlich nach oben - die Nachfrage nach Anzügen ging während der Coronazeit allerdings deutlich zurück.**",
   "accessibility": "",
   "source": {
     "url": "",
@@ -10,20 +10,15 @@
   },
   "knownData": [
     {
-      "label": "chillige outfits",
-      "value": 35
-    },
-    {
-      "label": "foobar",
-      "value": -35
-    }
+      "label": "Jogginghosen",
+      "value": 44
   ],
   "unknownData": {
-    "label": "bling",
-    "value": -44
+    "label": "Anzüge",
+    "value": -58
   },
-  "minY": -50,
-  "maxY": 50,
+  "minY": -70,
+  "maxY": 70,
   "initialGuess": 10,
   "unit": "%",
   "precision": 1,
