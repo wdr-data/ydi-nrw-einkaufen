@@ -208,7 +208,7 @@ const YDILineInternal = ({ name }) => {
             guesses.map((guess, i) => unknownData[i].label === effectiveLabel ? newGuess : guess));
     }, [
         confirmed, hasGuessed, setHasGuessed, guesses, setGuesses, xScale, yScale, unknownData,
-        guessProgress, isDragging, dragX, firstUnknown, margin,
+        guessProgress, isDragging, dragX, firstUnknown, margin, question.minY,
     ]);
 
     // Element memos
