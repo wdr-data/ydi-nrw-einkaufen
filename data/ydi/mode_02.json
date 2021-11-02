@@ -10,13 +10,13 @@
   },
   "knownData": [
     {
-      "label": "Jogginghosen",
-      "value": 44
+      "label": "Anzüge",
+      "value": -58
     }
   ],
   "unknownData": {
-    "label": "Anzüge",
-    "value": -58
+    "label": "Jogginghosen",
+    "value": 44
   },
   "minY": -70,
   "maxY": 70,
