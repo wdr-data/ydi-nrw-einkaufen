@@ -41,7 +41,10 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 ## Kleidung und Mode:
 
-<YDIBar name="mode"/>
+<YDIBar name="mode_01"/>
+<div class="empty_space" style="height: 20rem"></div>
+
+<YDIBar name="mode_02"/>
 <div class="empty_space" style="height: 20rem"></div>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
