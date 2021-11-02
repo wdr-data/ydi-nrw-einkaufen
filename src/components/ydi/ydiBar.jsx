@@ -62,7 +62,15 @@ const Marker = ({ barX, barY, barWidth, textLines, color, hidden }) => {
 }
 
 const YDIBarInternal = ({ name }) => {
-    const question = useMemo(() => require(`../../../data/ydi/${name}.json`), [name])
+    const question = useMemo(
+        () => {
+            const q = require(`../../../data/ydi/${name}.json`);
+            q.minY = q.minY || 0;
+            return q;
+        },
+        [name]
+    );
+
 
     const formatNumber = useNumberFormatter(question);
 
@@ -137,9 +145,9 @@ const YDIBarInternal = ({ name }) => {
     const yScale = useMemo(
         () => scaleLinear({
             rangeRound: [yMax, 0],
-            domain: [0, question.maxY]
+            domain: [question.minY, question.maxY]
         }),
-        [yMax, question.maxY]
+        [yMax, question.minY, question.maxY]
     );
 
     const colorScale = useMemo(
@@ -169,10 +177,10 @@ const YDIBarInternal = ({ name }) => {
 
         if ((!isDragging && !force) || confirmed || yPos < 0) return;
 
-        const newGuess = Math.max(0, yScale.invert(yPos));
+        const newGuess = Math.max(question.minY, yScale.invert(yPos));
         setHasGuessed(true);
         setGuess(newGuess);
-    }, [confirmed, setHasGuessed, setGuess, yScale, isDragging, margin]);
+    }, [confirmed, setHasGuessed, setGuess, yScale, isDragging, margin, question.minY]);
 
     // Element memos
 
@@ -199,9 +207,23 @@ const YDIBarInternal = ({ name }) => {
             {knownData.map((d) => {
                 const label = x(d);
                 const barWidth = xScale.bandwidth();
-                const barHeight = yMax - yScale(y(d));
                 const barX = xScale(label);
-                const barY = yMax - barHeight;
+
+                let barHeight, barY;
+
+                if (question.minY < 0) {
+                    if (y(d) >= 0) {
+                        barHeight = yMax - yScale(y(d)) - yScale(0);
+                        barY = yScale(0) - barHeight;
+                    } else {
+                        barHeight = -(yMax - yScale(y(d)) - yScale(0));
+                        barY = yScale(0);
+                    }
+                } else {
+                    barHeight = yMax - yScale(y(d));
+                    barY = yMax - barHeight;
+                }
+
                 return (
                     <React.Fragment key={`fragment-unknown-${label}`}>
                         <Marker
@@ -224,7 +246,7 @@ const YDIBarInternal = ({ name }) => {
                 );
             })}
         </Group>,
-        [xScale, yScale, knownData, yMax, question.unit, margin, formatNumber]
+        [xScale, yScale, knownData, yMax, question.unit, margin, formatNumber, question.minY]
     )
 
     const groupUnknown = useMemo(() =>
@@ -246,8 +268,22 @@ const YDIBarInternal = ({ name }) => {
                             {barGroup.bars.map(bar => {
                                 const markerTextLines = [];
                                 const clipY = !confirmed ? 1 : 0;
-                                const clipPath = `inset(${clipY * 100}% 0 0 0)`;
+                                let clipPath = `inset(${clipY * 100}% 0 0 0)`;
                                 const isGuessBar = bar.key === 'guess';
+
+                                // For some reason, we have to do this to manually calculate the bar height and position when we use negative values
+                                if (question.minY < 0) {
+                                    if (bar.value >= 0) {
+                                        bar.height = (yMax - yScale(bar.value) - yScale(0));
+                                        bar.y = yScale(0) - bar.height;
+                                        clipPath = `inset(${clipY * 100}% 0 0 0)`
+                                    } else {
+                                        bar.height = -(yMax - yScale(bar.value) - yScale(0));
+                                        bar.y = yScale(0);
+                                        clipPath = `inset(0 0 ${clipY * 100}% 0)`
+                                    }
+                                }
+
                                 if (isGuessBar) {
                                     if (hasGuessed) {
                                         markerTextLines.push('Geschätzt:');
@@ -294,7 +330,7 @@ const YDIBarInternal = ({ name }) => {
         </Group>,
         [
             xScale, guessXScale, yScale, colorScale, yMax, guessData, guessKeys, confirmed,
-            hasGuessed, question.unit, margin, confirmAnimationDone, formatNumber,
+            hasGuessed, question.unit, margin, confirmAnimationDone, formatNumber, question.minY,
         ]
     )
 

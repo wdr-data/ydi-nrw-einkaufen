@@ -1,0 +1,33 @@
+{
+  "key": "mode",
+  "heading": "Was schätzen Sie: Wie hat sich der Absatz von chilligen outfits vs. krassem bling verändert?",
+  "subheading": "So sieht ein Subheading aus",
+  "result": "**Die chilligen outfits liegen klar vorn - mit 1 million Prozent Anstieg. Beim bling sind es nur -tausend Prozent Anstieg.**",
+  "accessibility": "",
+  "source": {
+    "url": "",
+    "title": ""
+  },
+  "knownData": [
+    {
+      "label": "chillige outfits",
+      "value": 35
+    },
+    {
+      "label": "foobar",
+      "value": -35
+    }
+  ],
+  "unknownData": {
+    "label": "bling",
+    "value": -44
+  },
+  "minY": -50,
+  "maxY": 50,
+  "initialGuess": 10,
+  "unit": "%",
+  "precision": 1,
+  "customMargin": {
+    "left": 55
+  }
+}
