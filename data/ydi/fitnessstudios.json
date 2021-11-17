@@ -10,22 +10,22 @@
   },
   "knownData": [
     {
-      "label": "A",
-      "value": 169
+      "label": "2018",
+      "value": 11,09
     },
     {
-      "label": "B",
-      "value": 44
+      "label": "2019",
+      "value": 11,66
     }
   ],
   "unknownData": {
-    "label": "C",
-    "value": 207
+    "label": "2020",
+    "value": 10,31
   },
   "maxY": 700,
-  "initialGuess": 10,
+  "initialGuess": 5,
   "unit": "%",
-  "precision": 1,
+  "precision": 2,
   "customMargin": {
     "left": 55
   }
