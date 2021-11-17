@@ -1,0 +1,32 @@
+{
+  "key": "fitnessstudios",
+  "heading": "Überschrift fitnessstudios",
+  "subheading": "",
+  "result": "**Auflösung fitnessstudios**",
+  "accessibility": "",
+  "source": {
+    "url": "",
+    "title": ""
+  },
+  "knownData": [
+    {
+      "label": "A",
+      "value": 169
+    },
+    {
+      "label": "B",
+      "value": 44
+    }
+  ],
+  "unknownData": {
+    "label": "C",
+    "value": 207
+  },
+  "maxY": 700,
+  "initialGuess": 10,
+  "unit": "%",
+  "precision": 1,
+  "customMargin": {
+    "left": 55
+  }
+}

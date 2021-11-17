@@ -1,0 +1,29 @@
+{
+  "key": "umfrage",
+  "heading": "Überschrift umfrage",
+  "subheading": "",
+  "result": "**Auflösung umfrage**",
+  "accessibility": "",
+  "source": {
+    "url": "",
+    "title": ""
+  },
+  "knownData": [
+    {
+      "label": "A",
+      "value": 44
+    }
+  ],
+  "unknownData": {
+    "label": "B",
+    "value": 58
+  },
+  "minY": 0,
+  "maxY": 70,
+  "initialGuess": 10,
+  "unit": "%",
+  "precision": 1,
+  "customMargin": {
+    "left": 55
+  }
+}

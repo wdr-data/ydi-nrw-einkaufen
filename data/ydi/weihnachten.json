@@ -1,6 +1,6 @@
 {
-  "key": "line",
-  "heading": "Überschrift linechart",
+  "key": "weihnachten",
+  "heading": "Überschrift weihnachten",
   "subheading": "",
   "result": "**Dies ist die _Auflösung_.**",
   "accessibility": "Dies ist der Text für Screenreader.",
@@ -10,21 +10,41 @@
   },
   "knownData": [
     {
-      "label": "1",
+      "label": "13",
       "value": 11
     },
     {
-      "label": "2",
+      "label": "14",
+      "value": 7
+    },
+    {
+      "label": "15",
+      "value": 11
+    },
+    {
+      "label": "16",
+      "value": 7
+    },
+    {
+      "label": "17",
+      "value": 11
+    },
+    {
+      "label": "18",
       "value": 7
     }
   ],
   "unknownData": [
     {
-      "label": "3",
+      "label": "19",
       "value": 12
     },
     {
-      "label": "4",
+      "label": "20",
+      "value": 13
+    },
+    {
+      "label": "21",
       "value": 13
     }
   ],
