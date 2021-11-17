@@ -22,7 +22,7 @@
     "label": "Hanteln",
     "value": 207
   },
-  "maxY": 700,
+  "maxY": 250,
   "initialGuess": 10,
   "unit": "%",
   "precision": 1,
