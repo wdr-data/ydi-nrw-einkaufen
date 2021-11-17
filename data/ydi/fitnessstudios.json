@@ -24,7 +24,7 @@
   },
   "maxY": 15,
   "initialGuess": 5,
-  "unit": "%",
+  "unit": "Mio.",
   "precision": 2,
   "customMargin": {
     "left": 55
