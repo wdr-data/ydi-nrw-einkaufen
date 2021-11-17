@@ -1,7 +1,7 @@
 {
   "key": "onlinehandel",
-  "heading": "",
-  "subheading": "Was schätzen Sie...? Wie hat sich der Umsatz im Onlinehandel entwickelt?",
+  "heading": "Was schätzen Sie...?",
+  "subheading": "Wie hat sich der Umsatz im Onlinehandel entwickelt?",
   "result": "**Die Zahl der Online-Bestellungen in Deutschland steigt weiterhin an. Ihren Höhepunkt hatten sie im vergangenen Weihnachtsgeschäft. In den letzten drei Monaten setzte der Onlinehandel 27,2 Milliarden Euro um.**",
   "accessibility": "Dies ist der Text für Screenreader.",
   "source": {
