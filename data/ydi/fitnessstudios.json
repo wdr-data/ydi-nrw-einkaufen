@@ -11,18 +11,18 @@
   "knownData": [
     {
       "label": "2018",
-      "value": 11,09
+      "value": 11,1
     },
     {
       "label": "2019",
-      "value": 11,66
+      "value": 11,7
     }
   ],
   "unknownData": {
     "label": "2020",
-    "value": 10,31
+    "value": 10,3
   },
-  "maxY": 700,
+  "maxY": 15,
   "initialGuess": 5,
   "unit": "%",
   "precision": 2,
