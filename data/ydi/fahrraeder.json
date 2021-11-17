@@ -1,8 +1,8 @@
 {
   "key": "fahrraeder",
   "heading": "Überschrift fahrraeder",
-  "subheading": "",
-  "result": "**Dies ist die _Auflösung_.**",
+  "subheading": "Was schätzen Sie...? Wie hat sich der Absatz von Fahrrädern entwickelt?",
+  "result": "**Ja, das Geschäft lief gut. Einen so großen Absatzsprung hat es in den vergangenen 20 Jahren nicht gegeben.**",
   "accessibility": "Dies ist der Text für Screenreader.",
   "source": {
     "url": "http://example.com/",
@@ -10,55 +10,55 @@
   },
   "knownData": [
     {
-      "label": "10",
-      "value": 11
+      "label": "2010",
+      "value": 4,0
     },
     {
-      "label": "11",
-      "value": 7
+      "label": "2011",
+      "value": 4,1
     },
     {
-      "label": "12",
-      "value": 11
+      "label": "2012",
+      "value": 3,9
     },
     {
-      "label": "13",
-      "value": 11
+      "label": "2013",
+      "value": 3,8
     },
     {
-      "label": "14",
-      "value": 7
+      "label": "2014",
+      "value": 4,1
     },
     {
-      "label": "15",
-      "value": 11
+      "label": "2015",
+      "value": 4,4
     },
     {
-      "label": "16",
-      "value": 7
+      "label": "2016",
+      "value": 4,1
     },
     {
-      "label": "17",
-      "value": 11
+      "label": "2017",
+      "value": 3,9
     }
   ],
   "unknownData": [
     {
-      "label": "18",
-      "value": 7
+      "label": "2018",
+      "value": 4,2
     },
     {
-      "label": "19",
-      "value": 12
+      "label": "2019",
+      "value": 4,3
     },
     {
-      "label": "20",
-      "value": 13
+      "label": "2020",
+      "value": 5,0
     }
   ],
   "minY": 0,
   "maxY": 30,
-  "unit": "%",
+  "unit": "Mio Stück",
   "precision": 1,
   "customMargin": {
     "left": 50,
