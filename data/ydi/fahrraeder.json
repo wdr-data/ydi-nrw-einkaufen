@@ -58,7 +58,7 @@
   ],
   "minY": 0,
   "maxY": 10,
-  "unit": "Mio Stück",
+  "unit": " Mio Stk",
   "precision": 1,
   "customMargin": {
     "left": 50,
