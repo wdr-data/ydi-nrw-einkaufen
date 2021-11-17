@@ -33,6 +33,8 @@ Das erste Beispiel: Der Bekleidungseinzelhandel. Zum einen machten zwei Lockdown
 
 <YDIBar name="jogginghosen"/>
 
+<YDILine name="line"/>
+
 ## Sport
 
 Wie kann man die Kontrolle über sein Leben wieder zurückerlangen? Mit Sport. Die Corona-Pandemie hatte einige Auswirkungen auf den Sport. Leere Stadien und Hallen bei den Profis, leere Sportanlagen und Fitnessstudios bei den Breitensportlern.
