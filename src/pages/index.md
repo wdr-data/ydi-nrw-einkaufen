@@ -10,8 +10,8 @@ sharingImageFacebook: 'online-wochenmaerkte-104__v-gseapremiumxl.jpeg'
 sharingImageTwitter: 'online-wochenmaerkte-104__v-gseapremiumxl.jpeg'
 cg1: 'WDR'
 cg2: 'Data'
-cg3: 'WDR 3'
-cg4: 'Opern-Spielpläne in NRW: tot und männlich'
+cg3: 'WDR Verbraucher'
+cg4: 'NRW kauft ein'
 ---
 
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
