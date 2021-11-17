@@ -10,35 +10,19 @@
   },
   "knownData": [
     {
-      "label": "Q1 2016",
-      "value": 12.0
-    },
-    {
-      "label": "Q2 2016",
-      "value": 12.4
-    },
-    {
-      "label": "Q3 2016",
-      "value": 12.5
-    },
-    {
-      "label": "Q4 2016",
-      "value": 15.8
-    },
-    {
       "label": "Q1 2017",
       "value": 13.2
     },
     {
-      "label": "Q2 2017",
+      "label": "Q2",
       "value": 14.0
     },
     {
-      "label": "Q3 2017",
+      "label": "Q3",
       "value": 13.6
     },
     {
-      "label": "Q4 2017",
+      "label": "Q4",
       "value": 17.7
     },
     {
@@ -46,15 +30,15 @@
       "value": 14.6
     },
     {
-      "label": "Q2 2018",
+      "label": "Q2",
       "value": 15.6
     },
     {
-      "label": "Q3 2018",
+      "label": "Q3",
       "value": 15.2
     },
     {
-      "label": "Q4 2018",
+      "label": "Q4",
       "value": 19.7
     },
     {
@@ -62,15 +46,15 @@
       "value": 16.2
     },
     {
-      "label": "Q2 2019",
+      "label": "Q2",
       "value": 17.3
     },
     {
-      "label": "Q3 2019",
+      "label": "Q3",
       "value": 17.1
     },
     {
-      "label": "Q4 2019",
+      "label": "Q4",
       "value": 22.0
     }
   ],
