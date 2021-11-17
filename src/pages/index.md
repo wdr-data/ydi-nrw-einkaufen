@@ -23,15 +23,15 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 ## Was schätzen Sie...? NRW kauft ein
 
-Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: Die gefühlte Wahrheit gegen die harten Fakten der Statistik.
+# Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: gefühlte Wahrheit gegen die harten Fakten der Statistik.
+
 Sie können schätzen, wie sich bestimmte Zahlen in den vergangenen 18 Monaten entwickelt haben. Welche Branche konnte zulegen und wo ging der Umsatz deutlich zurück? Wer sind die Gewinner, wer die Verlierer?
 
 ## Mode und Kleidung
 
-Das erste Beispiel: Der Bekleidungseinzelhandel. Zum einen machten zwei Lockdowns den Händlern das Leben schwer – die Geschäfte blieben geschlossen, die Ware blieb hängen. Das hatte zum einen mit den Lockdowns, zum anderen aber auch mit dem geänderten Kaufverhalten zu tun haben. Viele Menschen blieben im Homeoffice – für die Videokonferenz reichte auch eine Jogginghose. Aber wurden tatsächlich mehr Jogginghosen verkauft?
+Das erste Beispiel: Der Bekleidungseinzelhandel. Zum einen machten zwei Lockdowns den Händlern das Leben schwer – die Geschäfte blieben geschlossen, die Ware blieb hängen. Doch nicht nur die Zwangspause machte den Händlern Sorgen. Es änderte sich nämlich auch die Nachfrage der Verbraucher. Viele Menschen arbeiteten im Homeoffice – und das hatte Auswirkungen auf den Kleiderschrank. Denn für die Videokonferenz musste es kein schicker Anzug sein. Im Zweifel reichte auch eine Jogginghose. Aber wurden tatsächlich mehr Jogginghosen verkauft?
 
 <YDIBar name="jogginghosen"/>
-<div class="empty_space" style="height: 20rem"></div>
 
 ## Sport
 
