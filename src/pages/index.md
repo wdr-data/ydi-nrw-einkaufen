@@ -69,10 +69,5 @@ Für viele Menschen in NRW heißt es in diesem Jahr allerdings, dass weniger Gel
 
 LINK BEITRAG
 
-## Gaming
-
-Sport ist Mord, lass mal lieber auf die Couch chillen und FIFA spielen ⚽
-
-<YDILine name="gaming"/>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
