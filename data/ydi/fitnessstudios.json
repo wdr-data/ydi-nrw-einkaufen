@@ -11,16 +11,16 @@
   "knownData": [
     {
       "label": "2018",
-      "value": 11,1
+      "value": 11.1
     },
     {
       "label": "2019",
-      "value": 11,7
+      "value": 11.7
     }
   ],
   "unknownData": {
     "label": "2020",
-    "value": 10,3
+    "value": 10.3
   },
   "maxY": 15,
   "initialGuess": 5,
