@@ -23,7 +23,7 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 ## Was schätzen Sie...? NRW kauft ein
 
-# Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: gefühlte Wahrheit gegen die harten Fakten der Statistik.
+**Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: gefühlte Wahrheit gegen die harten Fakten der Statistik.**
 
 Sie können schätzen, wie sich bestimmte Zahlen in den vergangenen 18 Monaten entwickelt haben. Welche Branche konnte zulegen und wo ging der Umsatz deutlich zurück? Wer sind die Gewinner, wer die Verlierer?
 
