@@ -18,6 +18,7 @@ import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
 import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
+import { Link, LinkList } from '../components/link/link.jsx'
 
 # Corona und Konsum - die Veränderungen im Zahlencheck
 
