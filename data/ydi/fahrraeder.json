@@ -61,7 +61,7 @@
   "unit": " Mio Stk",
   "precision": 1,
   "customMargin": {
-    "left": 50,
-    "right": 10
+    "left": 60,
+    "right": 20
   }
 }
