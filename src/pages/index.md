@@ -44,7 +44,6 @@ Wie haben sich die Menschen stattdessen fit gehalten? Vor allem die Jüngeren zo
 
 Dennoch hat auch diese Branche mit Problemen zu kämpfen. Denn die Lieferketten von den hauptsächlich in Asien hergestellten Rädern und Komponenten kamen durch die Pandemie ins Stocken. Wartezeiten von mehreren Monaten für neue Räder oder Ersatzteile sind noch immer die Regel.
 
-**mehr zum Thema**
 <Link title="Lieferengpässe: Mit diesen Geschenken könnte es zu Weihnachten eng werden" href="https://www1.wdr.de/nachrichten/lieferprobleme-weihnachten-geschenke-produkte-100.html" />
 
 Absatztreiber sind für die Fahrradhändler schon seit einigen Jahren die E-Bikes. Auch 2020 wurden mehr als 1,9 Millionen elektrisch unterstützter Fahrräder verkauft. Das entspricht einem Anstieg von 44 Prozent. Doch auch andere Sportgeräte wurden sehr stark nachgefragt.
@@ -69,7 +68,6 @@ Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in di
 
 <YDIBar name="umfrage"/>
 
-**Mehr Informationen zur Umfrage des WDR:** 
 <Link title="Umfrage: Jeder Fünfte spart bei Weihnachtsgeschenken?" href="http://cmsph2-wdr.wdr.de:8080/system/previewWrapper.jsp?sophoraid=weihnachten-umfrage-konsum-100" />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
