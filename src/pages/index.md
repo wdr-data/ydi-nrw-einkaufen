@@ -67,7 +67,7 @@ Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in di
 
 <YDIBar name="umfrage"/>
 
-LINK BEITRAG UMFRAGE
-
+**Mehr Informationen zur Umfrage des WDR:**
+<Link title="Umfrage: Jeder Fünfte spart bei Weihnachtsgeschenken?" href="http://cmsph2-wdr.wdr.de:8080/system/previewWrapper.jsp?sophoraid=weihnachten-umfrage-konsum-100"/>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
