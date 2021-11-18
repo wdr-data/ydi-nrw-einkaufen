@@ -1,8 +1,8 @@
 {
   "key": "weihnachten",
-  "heading": "Überschrift weihnachten",
-  "subheading": "",
-  "result": "**Dies ist die _Auflösung_.**",
+  "heading": "Was schätzen Sie...?",
+  "subheading": "Wie hat sich der Umsatz im Onlinehandel verändert?",
+  "result": "**19,7 Milliarden Euro waren es 2020, gut 23 Milliarden Euro Umsatz verspricht sich der Onlinehandel vom Weihnachtsgeschäft in diesem Jahr, so eine Erhebung des Handelsverbands Deutschland. Damit würde der Gesamtumsatz auf mehr als 80 Milliarden Euro klettern. Zum Vergleich: 2016 waren es etwas etwa 52 Milliarden Euro.**",
   "accessibility": "Dies ist der Text für Screenreader.",
   "source": {
     "url": "http://example.com/",
@@ -10,42 +10,42 @@
   },
   "knownData": [
     {
-      "label": "13",
-      "value": 11
+      "label": "2013",
+      "value": 8.0
     },
     {
-      "label": "14",
-      "value": 7
+      "label": "2014",
+      "value": 8.9
     },
     {
-      "label": "15",
-      "value": 11
+      "label": "2015",
+      "value": 10.0
     },
     {
-      "label": "16",
-      "value": 7
+      "label": "2016",
+      "value": 11.1
     },
     {
-      "label": "17",
-      "value": 11
+      "label": "2017",
+      "value": 12.2
     },
     {
-      "label": "18",
-      "value": 7
+      "label": "2018",
+      "value": 13.3
     }
   ],
   "unknownData": [
     {
-      "label": "19",
-      "value": 12
+      "label": "2019",
+      "value": 15.1
     },
     {
-      "label": "20",
-      "value": 13
+      "label": "2020",
+      "value": 19.7
     },
     {
-      "label": "21",
-      "value": 13
+      "label": "2021",
+      "value": 23.1
     }
   ],
   "minY": 0,
