@@ -1,17 +1,17 @@
 ---
 title: 'NRW kauft ein - Was schätzen Sie?'
-description: Non adipisicing minim magna anim esse consectetur amet ex dolore amet veniam.
+description: Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: die gefühlte Wahrheit gegen harte Fakten der Statistik. Bei "Was schätzen Sie..." ist ihre einschätzung gefragt.
 author: Peter Schneider
 pub_date: '2021-11-24'
 heroImage: 'weihnachtsgeschaeft-116__v-HintergrundXL.jpeg'
-heroAlt: ''
+heroAlt: 'Weihnachtsbaum im Vordergrund, im Hintergrund Passanten mit Mund-Nasen-Maske'
 heroCredit: 'picture alliance/Rupert Oberhäuser'
 sharingImageFacebook: 'teaser_WSS Kopie.jpeg'
 sharingImageTwitter: 'teaser_WSS Kopie.jpeg'
 cg1: 'WDR'
 cg2: 'Data'
 cg3: 'WDR Verbraucher'
-cg4: 'NRW kauft ein'
+cg4: 'Einkaufen'
 ---
 
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
