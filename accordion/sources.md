@@ -1,12 +1,11 @@
 ### Daten
 
 - Umfrage: infratest dimap im Auftrag des WDR
-- Fahrräder: Zweirad Industrie Verband (ZIV)
+- Fahrräder: Zweirad Industrie Verband (ZIV)/Statista
 - Kleidung: Destatis
-- Fitnessmarkt und Sportgeräte: DSSV/Sport Tiedje
-- Onlinehandel: BEVH
+- Fitnessmarkt und Sportgeräte: DSSV/Sport Tiedje/Statista
+- Onlinehandel: BEVH/Statista
 - Baumärkte: Handelsverband Heimwerken Bauen Garten
-
 
 
 ### Code
