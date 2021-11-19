@@ -46,25 +46,25 @@ Dennoch hat auch diese Branche mit Problemen zu kämpfen. Denn die Lieferketten 
 
 <Link title="Lieferengpässe: Mit diesen Geschenken könnte es zu Weihnachten eng werden" href="https://www1.wdr.de/nachrichten/lieferprobleme-weihnachten-geschenke-produkte-100.html" />
 
-Absatztreiber sind für die Fahrradhändler schon seit einigen Jahren die E-Bikes. Auch 2020 wurden mehr als 1,9 Millionen elektrisch unterstützter Fahrräder verkauft. Das entspricht einem Anstieg von 44 Prozent. Doch auch andere Sportgeräte wurden sehr stark nachgefragt.
+Absatztreiber sind für die Fahrradhändler schon seit einigen Jahren E-Bikes. Auch 2020 wurden mehr als 1,9 Millionen Fahrräder mit Elektromotor verkauft. Das entspricht einem Anstieg von 44 Prozent. Doch auch andere Sportgeräte wurden sehr stark nachgefragt.
 
 <YDIBar name="sportgeraete"/>
 
 ## Heimwerken im Trend
 
-Während der Pandemie nutzen viele Deutsche ihre Zeit mit dem Verschönern von Haus, Wohnung und Garten. Dafür ging’s fast immer zuerst in den Baumarkt. Fast 25 Prozent mehr Gartenmöbel und Holz verkauften die Baumärkte 2020 in Deutschland. Bei Farbenund Malerzubehör waren es sogar mehr als 27 Prozent.
+Während der Pandemie nutzen viele Deutsche ihre Zeit mit dem Verschönern von Haus, Wohnung und Garten. Dafür ging’s fast immer zuerst in den Baumarkt. Fast 25 Prozent mehr Gartenmöbel und Holz verkauften die Baumärkte 2020 in Deutschland. Bei Farben und Malerzubehör waren es sogar mehr als 27 Prozent.
 
 <YDILine name="baumaerkte"/>
 
 ## Onlinehandel
 
-Zurück in die Innenstädte. Dort klagt nicht nur der Textileinzelhandel über Umsatzrückgänge. In fast allen Teilbereichen des Einzelhandels sorgte die Pandemie dafür, dass sich der Trend des Online-Shoppings fortsetzte und sogar noch verstärkt wurde. Auch in diesem Jahr wird sich an diesem Trend wohl nichts ändern. Gut 23 Milliarden Euro Umsatz verspricht sich der Onlinehandel allein vom Weihnachtsgeschäft 2021, so eine Studie des Handelsverbands Deutschland.
+Zurück in die Innenstädte. Dort klagt nicht nur der Textileinzelhandel über Umsatzrückgänge. In fast allen Teilbereichen des Einzelhandels sorgte die Pandemie dafür, dass der Anteil des Online-Shoppings weiter stieg. Auch in diesem Jahr wird sich an diesem Trend wohl nichts ändern. Gut 23 Milliarden Euro Umsatz verspricht sich der Onlinehandel allein vom Weihnachtsgeschäft 2021, so eine Studie des Handelsverbands Deutschland.
 
 <YDILine name="weihnachten"/>
 
 ## Weihnachten
 
-Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in diesem Jahr allerdings, dass weniger Geld für Geschenke zur Verfügung steht. Zu diesem Schluss kommt eine repräsentative Umfrage von infratest dimap und dem WDR. 
+Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in diesem Jahr allerdings, dass weniger Geld für Geschenke zur Verfügung steht. Zu diesem Schluss kommt eine repräsentative Umfrage von infratest dimap im Auftrag des WDR. 
 
 <YDIBar name="umfrage"/>
 
