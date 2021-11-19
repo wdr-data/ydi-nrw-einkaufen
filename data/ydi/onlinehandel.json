@@ -1,4 +1,4 @@
-f{
+{
   "key": "onlinehandel",
   "heading": "Was schätzen Sie...?",
   "subheading": "Wie hat sich der Umsatz im Onlinehandel entwickelt?",
@@ -19,17 +19,17 @@ f{
     },
     {
       "label": "2019",
-      "value": 72,6
+      "value": 72.6
     }
   ],
   "unknownData": [
     {
       "label": "2020",
-      "value": 83,7
+      "value": 83.7
     },
     {
       "label": "2021",
-      "value": 67,4
+      "value": 67.4
     }
   ],
   "minY": 0,
