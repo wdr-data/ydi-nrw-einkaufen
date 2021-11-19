@@ -61,7 +61,7 @@
   "unit": " Mio",
   "precision": 1,
   "customMargin": {
-    "left": 80,
-    "right": 80
+    "left": 50,
+    "right": 10
   }
 }
