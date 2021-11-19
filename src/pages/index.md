@@ -64,9 +64,13 @@ Zurück in die Innenstädte. Dort klagt nicht nur der Textileinzelhandel über U
 
 ## Weihnachten
 
-Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in diesem Jahr allerdings, dass weniger Geld für Geschenke zur Verfügung steht. Zu diesem Schluss kommt eine repräsentative Umfrage von infratest dimap im Auftrag des WDR. 
+Diesen Trend bestätigt für Nordrhein-Westfalen auch eine repräsentative Umfrage von infratest dimap im Auftrag des WDR: Etwa 40 Prozent der Befragten gaben an, in diesem Jahr ihre Weihnachtsgeschenke online kaufen zu wollen. Der Einzelhandel kann dabei vor allem auf ältere Kundschaft setzen. Bei den Menschen unter 40 liegt der Anteil der Onlineshopper bei zwei Dritteln, aber nur 16 Prozent der Menschen über 65 Jahre wollen im Netz bestellen.
+
+Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in diesem Jahr allerdings, dass weniger Geld für Geschenke zur Verfügung steht. Auch dies ein Ergebnis der Umfrage. 
 
 <YDIBar name="umfrage"/>
+
+
 
 <Link title="Umfrage: Jeder Fünfte spart bei Weihnachtsgeschenken?" href="http://cmsph2-wdr.wdr.de:8080/system/previewWrapper.jsp?sophoraid=weihnachten-umfrage-konsum-100" />
 
