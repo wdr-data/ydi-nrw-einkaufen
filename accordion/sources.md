@@ -2,6 +2,7 @@
 
 - Umfrage: infratest dimap im Auftrag des WDR
 - Fahrräder: Zweirad Industrie Verband (ZIV)
+- Kleidung: Destatis
 - Fitnessmarkt und Sportgeräte: DSSV/Sport Tiedje
 - Onlinehandel: BEVH
 - Baumärkte: Handelsverband Heimwerken Bauen Garten
