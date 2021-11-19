@@ -1,6 +1,6 @@
 ---
 title: 'NRW kauft ein - Was schätzen Sie?'
-description: Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: die gefühlte Wahrheit gegen harte Fakten der Statistik. Bei "Was schätzen Sie..." ist ihre einschätzung gefragt.
+description: 'Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: die gefühlte Wahrheit gegen harte Fakten der Statistik. Bei "Was schätzen Sie..." ist ihre einschätzung gefragt.'
 author: Peter Schneider
 pub_date: '2021-11-24'
 heroImage: 'weihnachtsgeschaeft-116__v-HintergrundXL.jpeg'
@@ -66,7 +66,7 @@ Zurück in die Innenstädte. Dort klagt nicht nur der Textileinzelhandel über U
 
 Diesen Trend bestätigt für Nordrhein-Westfalen auch eine repräsentative Umfrage von infratest dimap im Auftrag des WDR: Etwa 40 Prozent der Befragten gaben an, in diesem Jahr ihre Weihnachtsgeschenke online kaufen zu wollen. Der Einzelhandel kann dabei vor allem auf ältere Kundschaft setzen. Bei den Menschen unter 40 liegt der Anteil der Onlineshopper bei zwei Dritteln, aber nur 16 Prozent der Menschen über 65 Jahre wollen im Netz bestellen.
 
-Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in diesem Jahr allerdings, dass weniger Geld für Geschenke zur Verfügung steht. Auch dies ein Ergebnis der Umfrage. 
+Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in diesem Jahr allerdings, dass weniger Geld für Geschenke zur Verfügung steht. Auch dies ein Ergebnis der Umfrage.
 
 <YDIBar name="umfrage"/>
 
