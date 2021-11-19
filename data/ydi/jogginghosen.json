@@ -3,10 +3,10 @@
   "heading": "Was schätzen Sie...?",
   "subheading": "Wie hat sich der Absatz von Jogginghosen gegenüber Anzügen verändert?",
   "result": "**Ja, es stimmt, der Absatz von Jogginghosen ist gestiegen – um etwas mehr als 40 Prozent. Gleichzeitig ging die Nachfrage nach Anzügen während der Coronazeit deutlich zurück.**",
-  "accessibility": "",
+  "accessibility": "Balkengrafik zeigt den sinkenden Absatz von Anzügen und den steigenden Absatz von Jogginghosen",
   "source": {
-    "url": "",
-    "title": ""
+    "url": "https://www.destatis.de/DE/Home/_inhalt.html",
+    "title": "Destatis"
   },
   "knownData": [
     {
