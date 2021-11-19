@@ -1,8 +1,3 @@
-### Bildrechte:
-
-- Aufmacher-Bild: mauritius image
-
-
 ### Credits
 
 - **Redaktion:** Friedel Groth
