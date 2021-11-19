@@ -3,10 +3,10 @@
   "heading": "Was schätzen Sie...?",
   "subheading": "Wie hat sich der Umsatz im Onlinehandel verändert?",
   "result": "**19,7 Milliarden Euro waren es 2020, gut 23 Milliarden Euro Umsatz verspricht sich der Onlinehandel vom Weihnachtsgeschäft in diesem Jahr, so eine Erhebung des Handelsverbands Deutschland. Damit würde der Gesamtumsatz auf mehr als 80 Milliarden Euro klettern. Zum Vergleich: 2016 waren es etwas etwa 52 Milliarden Euro.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "accessibility": "Die Grafik zeigt die Entwicklung des Umsatzes, den der Onlinehandel im Weihnachtsgeschäft seit 2013 generiert hat.",
   "source": {
-    "url": "http://example.com/",
-    "title": "Eine Studie"
+    "url": "https://einzelhandel.de/presse/zahlenfaktengrafiken",
+    "title": "HDE/Statista"
   },
   "knownData": [
     {
