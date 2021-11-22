@@ -26,6 +26,8 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 Dabei sind Sie gefragt: Wie haben sich bestimmte Zahlen in den vergangenen 20 Monaten entwickelt? Welche Branche konnte zulegen und wo ging der Umsatz deutlich zurück? Wer sind die Gewinner, wer die Verlierer? Schätzen Sie einfach mit - und checken dann, wie es wirklich war.
 
+<Link title="Was kauft NRW? - Trends und Kassenschlager in Corona-Zeiten" href="https://www1.wdr.de/verbraucher/geld/was-kauft-nrw-102.html" />
+
 ## Mode und Kleidung
 
 Das erste Beispiel: Der Bekleidungseinzelhandel. Zum einen machten zwei Lockdowns den Händlern das Leben schwer – die Geschäfte blieben geschlossen, die Ware blieb hängen. Bis zu 76 Prozent lag der Umsatz 2020 unter den Werten des Vorjahres. Doch nicht nur die Zwangspause machte den Händlern Kummer. Es änderte sich nämlich auch die Nachfrage der Verbraucher. Viele Menschen arbeiteten im Homeoffice – und das hatte Auswirkungen auf den Kleiderschrank. Denn für die Videokonferenz musste es kein schicker Anzug sein. Im Zweifel reichte auch eine Jogginghose. Aber wurden deshalb tatsächlich mehr Jogginghosen verkauft?
@@ -70,6 +72,6 @@ Ob Onlinehandel oder Einkaufsbummel - für viele Menschen in NRW heißt es in di
 
 <YDIBar name="umfrage"/>
 
-<Link title="Umfrage: Jeder Fünfte spart bei Weihnachtsgeschenken?" href="http://cmsph2-wdr.wdr.de:8080/system/previewWrapper.jsp?sophoraid=weihnachten-umfrage-konsum-100" />
+<Link title="Umfrage: Jeder Fünfte spart bei Weihnachtsgeschenken?" href="http://https://www1.wdr.de/nachrichten/wirtschaft/weihnachten-umfrage-konsum-100.html" />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
