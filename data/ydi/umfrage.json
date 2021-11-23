@@ -10,12 +10,12 @@
   },
   "knownData": [
     {
-      "label": "Gesamtbevölkerung",
+      "label": "Gesamt",
       "value": 10
     }
   ],
   "unknownData": {
-    "label": "Haushaltseinkommen >3,500€",
+    "label": "Einkommen >3.500€",
     "value": 14
   },
   "minY": 0,
