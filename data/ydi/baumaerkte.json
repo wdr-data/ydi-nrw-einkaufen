@@ -54,10 +54,10 @@
   ],
   "minY": 0,
   "maxY": 30,
-  "unit": " Mrd EUR",
+  "unit": " Mrd €",
   "precision": 1,
   "customMargin": {
     "left": 80,
-    "right": 80
+    "right": 20
   }
 }

@@ -15,7 +15,7 @@
     }
   ],
   "unknownData": {
-    "label": "Haushaltseinkommen >3,500 EUR",
+    "label": "Haushaltseinkommen >3,500€",
     "value": 14
   },
   "minY": 0,
@@ -24,6 +24,6 @@
   "unit": "%",
   "precision": 1,
   "customMargin": {
-    "left": 55
+    "left": 45
   }
 }

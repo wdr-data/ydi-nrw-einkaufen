@@ -34,7 +34,7 @@
   ],
   "minY": 0,
   "maxY": 35,
-  "unit": "Mrd. Euro",
+  "unit": "Mrd. €",
   "precision": 1,
   "customMargin": {
     "left": 50,
