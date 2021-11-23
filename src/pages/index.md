@@ -1,6 +1,6 @@
 ---
 title: "NRW kauft ein - Was schätzen Sie?"
-description: 'Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: die gefühlte Wahrheit gegen harte Fakten der Statistik. Bei "Was schätzen Sie..." ist ihre einschätzung gefragt.'
+description: 'Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: die gefühlte Wahrheit gegen harte Fakten der Statistik. Bei "Was schätzen Sie..." ist ihre Einschätzung gefragt.'
 author: Peter Schneider
 pub_date: "2021-11-24"
 heroImage: "weihnachtsgeschaeft-116__v-HintergrundXL.jpeg"
