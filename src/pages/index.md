@@ -1,6 +1,6 @@
 ---
 title: "NRW kauft ein - Was schätzen Sie?"
-description: 'Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: die gefühlte Wahrheit gegen harte Fakten der Statistik. Bei "Was schätzen Sie..." ist ihre Einschätzung gefragt.'
+description: 'Geschlossene Läden, Kurzarbeit, Zukunftsangst – wie hat sich die Corona-Pandemie auf unser Konsumverhalten ausgewirkt? Es treten an: die gefühlte Wahrheit gegen harte Fakten der Statistik. Bei "Was schätzen Sie..." ist Ihre Einschätzung gefragt.'
 author: Peter Schneider
 pub_date: "2021-11-24"
 heroImage: "weihnachtsgeschaeft-116__v-HintergrundXL.jpeg"
@@ -36,7 +36,7 @@ Das erste Beispiel: Der Bekleidungseinzelhandel. Zum einen machten zwei Lockdown
 
 ## Sport
 
-Waren die Menschen mit derart sportlicher Kleidung auch aktiver - oder war die Jogginghose am Feierabend eher das Kleidungsstück der Wahl auf der Couch? Darauf gibt es keine eindeutige Antwort. Die Corona-Pandemie hatte einige tiefgreifende Auswirkungen auf den Sport. Glimpflich kamem viele Profisportler davon. Sie durften zumindest spielen und tranieren - wenn auch in leeren Stadien und Hallen. Schlimmer traf es Vereine und Breitensportler - denn auch die kommunalen und privaten Sportanlagen blieben geschlossen.
+Waren die Menschen mit derart sportlicher Kleidung auch aktiver - oder war die Jogginghose am Feierabend eher das Kleidungsstück der Wahl auf der Couch? Darauf gibt es keine eindeutige Antwort. Die Corona-Pandemie hatte einige tiefgreifende Auswirkungen auf den Sport. Glimpflich kamen viele Profisportler davon. Sie durften zumindest spielen und trainieren - wenn auch in leeren Stadien und Hallen. Schlimmer traf es Vereine und Breitensportler - denn auch die kommunalen und privaten Sportanlagen blieben geschlossen.
 
 <YDIBar name="fitnessstudios"/>
 
