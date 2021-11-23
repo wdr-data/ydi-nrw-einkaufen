@@ -10,25 +10,25 @@
   },
   "knownData": [
     {
-      "label": "2017",
+      "label": "'17",
       "value": 58.5
     },
     {
-      "label": "2018",
+      "label": "'18",
       "value": 65.1
     },
     {
-      "label": "2019",
+      "label": "'19",
       "value": 72.6
     }
   ],
   "unknownData": [
     {
-      "label": "2020",
+      "label": "'20",
       "value": 83.7
     },
     {
-      "label": "2021",
+      "label": "'21",
       "value": 67.4
     }
   ],

@@ -10,45 +10,45 @@
   },
   "knownData": [
     {
-      "label": "2011",
+      "label": "'11",
       "value": 18.7
     },
     {
-      "label": "2012",
+      "label": "'12",
       "value": 18.6
     },
     {
-      "label": "2013",
+      "label": "'13",
       "value": 18.8
     },
     {
-      "label": "2014",
+      "label": "'14",
       "value": 17.6
     },
     {
-      "label": "2015",
+      "label": "'15",
       "value": 17.9
     },
     {
-      "label": "2016",
+      "label": "'16",
       "value": 18.2
     },
     {
-      "label": "2017",
+      "label": "'17",
       "value": 18.4
     }
   ],
   "unknownData": [
     {
-      "label": "2018",
+      "label": "'18",
       "value": 18.8
     },
     {
-      "label": "2019",
+      "label": "'19",
       "value": 19.6
     },
     {
-      "label": "2020",
+      "label": "'20",
       "value": 22.1
     }
   ],
